@@ -1,0 +1,78 @@
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.json
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.exe
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.deps.json
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.runtimeconfig.json
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.pdb
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.AssemblyReference.cache
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfoInputs.cache
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfo.cs
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.CoreCompileInputs.cache
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ClientesApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ClientesApp.API.props
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClientesApp.API.props
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClientesApp.API.props
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\scopedcss\bundle\ClientesApp.API.styles.css
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.CopyComplete
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\refint\ClientesApp.API.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.pdb
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.genruntimeconfig.cache
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ref\ClientesApp.API.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Dapper.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\CSharp_SQ_Noite\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.exe
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.deps.json
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.runtimeconfig.json
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\ClientesApp.API.pdb
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.AssemblyReference.cache
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfoInputs.cache
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.AssemblyInfo.cs
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ClientesApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ClientesApp.API.props
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClientesApp.API.props
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClientesApp.API.props
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\scopedcss\bundle\ClientesApp.API.styles.css
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\Clientes.8154B6BE.Up2Date
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\refint\ClientesApp.API.dll
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.pdb
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ClientesApp.API.genruntimeconfig.cache
+C:\Users\Saulo\Documents\Curso_CSharp_Nova\FeitoAula\Aula 07 - 27-11-24\ClientesApp\ClientesApp\ClientesApp.API\obj\Debug\net8.0\ref\ClientesApp.API.dll

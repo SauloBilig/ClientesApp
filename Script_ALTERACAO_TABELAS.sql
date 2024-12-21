@@ -1,0 +1,7 @@
+﻿Alter table CLIENTE 
+ADD Categoria int not null default 1;
+
+ALTER TABLE CLIENTE
+ADD CONSTRAINT CHECK_CATEGORIA
+CHECK(CATEGORIA IN (1,2,3,4))
+GO
